@@ -1,21 +1,40 @@
-## Hi there 👋
+# Hi there 👋, I'm Renz Magdaraog  
 
-<!--
-**gonzales1221/gonzales1221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me  
+- 🎓 BSIT Student at **Laguna State Polytechnic University**  
+- 🌱 Currently learning **Python, Flask, SQL, Flutter, and Dart**  
+- 🎯 My goal is to become a skilled **UI/UX Designer**  
+- 💡 Interested in **UI/UX Design** and **Software Development**  
 
-Here are some ideas to get you started:
-## ABOUT ME
--  BSIT Student at Laguna State Polytechnic University  ...
--  I’m currently learning Python, Flask, SQL, FLutter, and Dart ...
--  My goal is to become a skilled UI/UX Designer ...
--  I'm interested in UI/UX Design and Software Development ...
-SKILLS
-- Languages: Python, Php, Dart ...
-- Frameworks/Tools: Proto.io, Figma, Webflow ...
-- Other: Database Management, Web Development Basics ...
-CURRENT PROJECTS
--  Learning Git and Github for version control...
--  Developing practice projects in Python and Flutter ...
--  Creating small apps as Portfolio ...
-CONNECT WITH ME
-@:Renzmagdaraog858@gmail.com
+---
+
+## 🛠 Skills  
+
+**Languages:**  
+- Python 🐍  
+- PHP 🌐  
+- Dart 🎯  
+
+**Frameworks / Tools:**  
+- Proto.io  
+- Figma 🎨  
+- Webflow  
+
+**Other:**  
+- Database Management 🗄️  
+- Web Development Basics 🌍  
+
+---
+
+## 📂 Current Projects  
+- 🔧 Learning **Git** and **GitHub** for version control  
+- 📱 Developing practice projects in **Python** and **Flutter**  
+- 💻 Creating small apps to build my **Portfolio**  
+
+---
+
+## 📫 Connect With Me  
+- Email: **Renzmagdaraog858@gmail.com**  
+
+---
+⭐️ From [RenzMagdaraog](https://github.com/your-username)
